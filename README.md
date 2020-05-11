@@ -3,7 +3,9 @@ Repository for the project of the class 'Remote sensing data'.
 
 ![example image](example.png)
 
-Based upon the paper: "Zhang, K., Zuo, W., & Zhang, L. (2018). FFDNet: Toward a fast and flexible solution for CNN-based image denoising" [link](https://arxiv.org/abs/1710.04026).
+Based upon the paper: 
+
+"Zhang, K., Zuo, W., & Zhang, L. (2018). FFDNet: Toward a fast and flexible solution for CNN-based image denoising" [link](https://arxiv.org/abs/1710.04026).
 
 Code references: The Network blocks and the architecture of the FFDNet are adapted from the original implementation at https://github.com/cszn/KAIR. Additionally, some functions (Speckle injection, PSNR calculation) from Mr. Emanuele Dalsasso were also used. All those parts are accordingly marked in the code.
 
